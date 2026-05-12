@@ -1,0 +1,158 @@
+{
+  "trains": [
+    {
+      "train_number": "101UP",
+      "train_name": "Green Line Express",
+      "total_seats": 850,
+      "class_types": ["AC Sleeper", "AC Business", "AC Standard", "Economy"],
+      "description": "Premium train service between Karachi and Islamabad"
+    },
+    {
+      "train_number": "102DN",
+      "train_name": "Green Line Express",
+      "total_seats": 850,
+      "class_types": ["AC Sleeper", "AC Business", "AC Standard", "Economy"],
+      "description": "Premium train service between Islamabad and Karachi"
+    },
+    {
+      "train_number": "103UP",
+      "train_name": "Awam Express",
+      "total_seats": 1200,
+      "class_types": ["AC Standard", "Economy"],
+      "description": "Popular train connecting Sindh and Punjab"
+    },
+    {
+      "train_number": "104DN",
+      "train_name": "Awam Express",
+      "total_seats": 1200,
+      "class_types": ["AC Standard", "Economy"],
+      "description": "Popular train connecting Punjab and Sindh"
+    },
+    {
+      "train_number": "105UP",
+      "train_name": "Karakoram Express",
+      "total_seats": 750,
+      "class_types": ["AC Standard", "Economy"],
+      "description": "Train service to Northern areas"
+    },
+    {
+      "train_number": "106DN",
+      "train_name": "Karakoram Express",
+      "total_seats": 750,
+      "class_types": ["AC Standard", "Economy"],
+      "description": "Return service from Northern areas"
+    },
+    {
+      "train_number": "107UP",
+      "train_name": "Jaffar Express",
+      "total_seats": 1100,
+      "class_types": ["AC Standard", "Economy"],
+      "description": "Connects Quetta with other major cities"
+    },
+    {
+      "train_number": "108DN",
+      "train_name": "Jaffar Express",
+      "total_seats": 1100,
+      "class_types": ["AC Standard", "Economy"],
+      "description": "Return service from Quetta"
+    },
+    {
+      "train_number": "109UP",
+      "train_name": "Millat Express",
+      "total_seats": 950,
+      "class_types": ["AC Standard", "Economy"],
+      "description": "Express service between major cities"
+    },
+    {
+      "train_number": "110DN",
+      "train_name": "Millat Express",
+      "total_seats": 950,
+      "class_types": ["AC Standard", "Economy"],
+      "description": "Return express service"
+    },
+    {
+      "train_number": "111UP",
+      "train_name": "Tezgam",
+      "total_seats": 1050,
+      "class_types": ["AC Sleeper", "AC Standard", "Economy"],
+      "description": "One of the fastest trains in Pakistan"
+    },
+    {
+      "train_number": "112DN",
+      "train_name": "Tezgam",
+      "total_seats": 1050,
+      "class_types": ["AC Sleeper", "AC Standard", "Economy"],
+      "description": "Return fast service"
+    },
+    {
+      "train_number": "113UP",
+      "train_name": "Shalimar Express",
+      "total_seats": 900,
+      "class_types": ["AC Standard", "Economy"],
+      "description": "Popular overnight service"
+    },
+    {
+      "train_number": "114DN",
+      "train_name": "Shalimar Express",
+      "total_seats": 900,
+      "class_types": ["AC Standard", "Economy"],
+      "description": "Return overnight service"
+    },
+    {
+      "train_number": "115UP",
+      "train_name": "Allama Iqbal Express",
+      "total_seats": 1000,
+      "class_types": ["AC Standard", "Economy"],
+      "description": "Named after national poet"
+    },
+    {
+      "train_number": "116DN",
+      "train_name": "Allama Iqbal Express",
+      "total_seats": 1000,
+      "class_types": ["AC Standard", "Economy"],
+      "description": "Return service"
+    },
+    {
+      "train_number": "117UP",
+      "train_name": "Badar Express",
+      "total_seats": 800,
+      "class_types": ["Economy"],
+      "description": "Economical inter-city service"
+    },
+    {
+      "train_number": "118DN",
+      "train_name": "Badar Express",
+      "total_seats": 800,
+      "class_types": ["Economy"],
+      "description": "Return economical service"
+    },
+    {
+      "train_number": "119UP",
+      "train_name": "Pak Business Express",
+      "total_seats": 600,
+      "class_types": ["AC Business", "AC Standard"],
+      "description": "Business class express service"
+    },
+    {
+      "train_number": "120DN",
+      "train_name": "Pak Business Express",
+      "total_seats": 600,
+      "class_types": ["AC Business", "AC Standard"],
+      "description": "Return business service"
+    },
+    {
+      "train_number": "121UP",
+      "train_name": "Ravi Express",
+      "total_seats": 700,
+      "class_types": ["Economy"],
+      "description": "Daytime economy service"
+    },
+    {
+      "train_number": "122DN",
+      "train_name": "Ravi Express",
+      "total_seats": 700,
+      "class_types": ["Economy"],
+      "description": "Return daytime service"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+/* CSS Grid Method for Sticky Footer */
+body {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    min-height: 100vh;
+    margin: 0;
+}
+
+main {
+    grid-row: 2;
+}
+
+footer {
+    grid-row: 3;
+}
+
+.hero-section {
+    margin-top: -20px;
+}
+
+.card {
+    transition: transform 0.3s ease;
+    margin-bottom: 20px;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+.navbar {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+footer {
+    margin-top: auto;
+}
+
+.btn-primary {
+    background-color: #610505;
+    border-color: #610505;
+}
+
+.btn-primary:hover {
+    background-color: #3b0303;
+    border-color: #3b0303;
+}
+
+/* Custom Maroon Color Theme */
+.bg-maroon {
+    background-color: #610505 !important;
+}
+
+.bg-maroon-dark {
+    background-color: #4a0404 !important;
+}
+
+.bg-maroon-light {
+    background-color: #7a1a1a !important;
+}
+
+.text-maroon {
+    color: #610505 !important;
+}
+
+.btn-maroon {
+    background-color: #610505;
+    color: white;
+    border: none;
+}
+
+.btn-maroon:hover {
+    background-color: #4a0404;
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.btn-outline-maroon {
+    border: 1px solid #610505;
+    color: #610505;
+    background-color: transparent;
+}
+
+.btn-outline-maroon:hover {
+    background-color: #610505;
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.border-maroon {
+    border-color: #610505 !important;
+}
+
+/* Table styling with maroon */
+.table-maroon thead {
+    background-color: #610505;
+    color: white;
+}
+
+.table-maroon thead th {
+    background-color: #610505;
+    color: white;
+    border-bottom: none;
+}
+
+.table-maroon tbody tr:hover {
+    background-color: rgba(97, 5, 5, 0.1);
+}
+
+/* Card header with maroon */
+.card-header-maroon {
+    background-color: #610505;
+    color: white;
+    border-bottom: none;
+}
+
+.card-header-maroon a {
+    color: white;
+}
+
+/* Gradient backgrounds */
+.bg-maroon-gradient {
+    background: linear-gradient(135deg, #610505 0%, #8b1a1a 100%);
+}
+
+/* Badge with maroon */
+.badge-maroon {
+    background-color: #610505;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+/* Pagination active with maroon */
+.pagination .page-item.active .page-link {
+    background-color: #610505;
+    border-color: #610505;
+}
+
+.pagination .page-link:hover {
+    color: #610505;
+}
+
+/* Modal header with maroon */
+.modal-header-maroon {
+    background-color: #610505;
+    color: white;
+    border-bottom: none;
+}
+
+.modal-header-maroon .btn-close {
+    filter: brightness(0) invert(1);
+}

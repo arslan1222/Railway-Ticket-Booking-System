@@ -1,0 +1,202 @@
+{
+  "routes": [
+    {
+      "train_number": "101UP",
+      "origin": "Karachi Cantonment",
+      "destination": "Islamabad",
+      "departure_time": "06:00:00",
+      "arrival_time": "20:30:00",
+      "duration": "14 hours 30 minutes",
+      "distance": 1600,
+      "fare": 4500,
+      "class": "AC Sleeper"
+    },
+    {
+      "train_number": "101UP",
+      "origin": "Karachi Cantonment",
+      "destination": "Lahore",
+      "departure_time": "06:00:00",
+      "arrival_time": "17:30:00",
+      "duration": "11 hours 30 minutes",
+      "distance": 1280,
+      "fare": 3500,
+      "class": "AC Business"
+    },
+    {
+      "train_number": "102DN",
+      "origin": "Islamabad",
+      "destination": "Karachi Cantonment",
+      "departure_time": "15:00:00",
+      "arrival_time": "05:30:00",
+      "duration": "14 hours 30 minutes",
+      "distance": 1600,
+      "fare": 4500,
+      "class": "AC Sleeper"
+    },
+    {
+      "train_number": "103UP",
+      "origin": "Karachi City",
+      "destination": "Peshawar Cantonment",
+      "departure_time": "08:00:00",
+      "arrival_time": "06:00:00",
+      "duration": "22 hours",
+      "distance": 1800,
+      "fare": 2800,
+      "class": "Economy"
+    },
+    {
+      "train_number": "103UP",
+      "origin": "Hyderabad Junction",
+      "destination": "Rawalpindi",
+      "departure_time": "10:30:00",
+      "arrival_time": "06:30:00",
+      "duration": "20 hours",
+      "distance": 1550,
+      "fare": 2600,
+      "class": "Economy"
+    },
+    {
+      "train_number": "105UP",
+      "origin": "Lahore Junction",
+      "destination": "Rawalpindi",
+      "departure_time": "07:30:00",
+      "arrival_time": "14:00:00",
+      "duration": "6 hours 30 minutes",
+      "distance": 420,
+      "fare": 1200,
+      "class": "AC Standard"
+    },
+    {
+      "train_number": "105UP",
+      "origin": "Rawalpindi",
+      "destination": "Peshawar Cantonment",
+      "departure_time": "14:30:00",
+      "arrival_time": "17:00:00",
+      "duration": "2 hours 30 minutes",
+      "distance": 180,
+      "fare": 500,
+      "class": "Economy"
+    },
+    {
+      "train_number": "107UP",
+      "origin": "Quetta",
+      "destination": "Rawalpindi",
+      "departure_time": "09:00:00",
+      "arrival_time": "08:00:00",
+      "duration": "23 hours",
+      "distance": 1200,
+      "fare": 2200,
+      "class": "AC Standard"
+    },
+    {
+      "train_number": "107UP",
+      "origin": "Sibi Junction",
+      "destination": "Lahore Junction",
+      "departure_time": "12:00:00",
+      "arrival_time": "08:00:00",
+      "duration": "20 hours",
+      "distance": 1100,
+      "fare": 2000,
+      "class": "Economy"
+    },
+    {
+      "train_number": "109UP",
+      "origin": "Multan Cantonment",
+      "destination": "Karachi Cantonment",
+      "departure_time": "20:00:00",
+      "arrival_time": "08:00:00",
+      "duration": "12 hours",
+      "distance": 900,
+      "fare": 1800,
+      "class": "AC Standard"
+    },
+    {
+      "train_number": "111UP",
+      "origin": "Karachi Cantonment",
+      "destination": "Rawalpindi",
+      "departure_time": "21:00:00",
+      "arrival_time": "11:00:00",
+      "duration": "14 hours",
+      "distance": 1500,
+      "fare": 4000,
+      "class": "AC Sleeper"
+    },
+    {
+      "train_number": "111UP",
+      "origin": "Hyderabad Junction",
+      "destination": "Lahore Junction",
+      "departure_time": "22:30:00",
+      "arrival_time": "13:00:00",
+      "duration": "14 hours 30 minutes",
+      "distance": 1280,
+      "fare": 3200,
+      "class": "AC Standard"
+    },
+    {
+      "train_number": "113UP",
+      "origin": "Lahore Junction",
+      "destination": "Karachi Cantonment",
+      "departure_time": "19:00:00",
+      "arrival_time": "08:00:00",
+      "duration": "13 hours",
+      "distance": 1280,
+      "fare": 2500,
+      "class": "Economy"
+    },
+    {
+      "train_number": "115UP",
+      "origin": "Sialkot Junction",
+      "destination": "Quetta",
+      "departure_time": "06:00:00",
+      "arrival_time": "12:00:00",
+      "duration": "30 hours",
+      "distance": 1600,
+      "fare": 3000,
+      "class": "AC Standard"
+    },
+    {
+      "train_number": "115UP",
+      "origin": "Gujranwala",
+      "destination": "Sibi Junction",
+      "departure_time": "08:00:00",
+      "arrival_time": "10:00:00",
+      "duration": "26 hours",
+      "distance": 1400,
+      "fare": 2600,
+      "class": "Economy"
+    },
+    {
+      "train_number": "117UP",
+      "origin": "Faisalabad",
+      "destination": "Lahore Junction",
+      "departure_time": "07:00:00",
+      "arrival_time": "10:00:00",
+      "duration": "3 hours",
+      "distance": 180,
+      "fare": 400,
+      "class": "Economy"
+    },
+    {
+      "train_number": "119UP",
+      "origin": "Islamabad",
+      "destination": "Lahore Junction",
+      "departure_time": "07:00:00",
+      "arrival_time": "12:00:00",
+      "duration": "5 hours",
+      "distance": 380,
+      "fare": 1800,
+      "class": "AC Business"
+    },
+    {
+      "train_number": "121UP",
+      "origin": "Lahore Junction",
+      "destination": "Rawalpindi",
+      "departure_time": "06:00:00",
+      "arrival_time": "12:00:00",
+      "duration": "6 hours",
+      "distance": 420,
+      "fare": 600,
+      "class": "Economy"
+    }
+  ]
+}
